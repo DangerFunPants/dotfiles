@@ -1,0 +1,6 @@
+[submodule "nix_configuration"]
+	path = nix_configuration
+	url = https://github.com/DangerFunPants/nix_configuration.git
+[submodule "user_configuration"]
+	path = user_configuration
+	url = https://github.com/DangerFunPants/user_configuration.git
